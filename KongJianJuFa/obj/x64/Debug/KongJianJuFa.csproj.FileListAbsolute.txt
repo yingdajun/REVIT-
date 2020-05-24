@@ -1,0 +1,10 @@
+I:\NewC#demo\New2\KongJianJuFa\KongJianJuFa\bin\x64\Debug\KongJianJuFa.dll
+I:\NewC#demo\New2\KongJianJuFa\KongJianJuFa\bin\x64\Debug\KongJianJuFa.pdb
+I:\NewC#demo\New2\KongJianJuFa\KongJianJuFa\bin\x64\Debug\RevitAddInUtility.dll
+I:\NewC#demo\New2\KongJianJuFa\KongJianJuFa\bin\x64\Debug\RevitAPI.dll
+I:\NewC#demo\New2\KongJianJuFa\KongJianJuFa\bin\x64\Debug\RevitAPIUI.dll
+I:\NewC#demo\New2\KongJianJuFa\KongJianJuFa\obj\x64\Debug\KongJianJuFa.csproj.CoreCompileInputs.cache
+I:\NewC#demo\New2\KongJianJuFa\KongJianJuFa\obj\x64\Debug\KongJianJuFa.csproj.CopyComplete
+I:\NewC#demo\New2\KongJianJuFa\KongJianJuFa\obj\x64\Debug\KongJianJuFa.dll
+I:\NewC#demo\New2\KongJianJuFa\KongJianJuFa\obj\x64\Debug\KongJianJuFa.pdb
+I:\NewC#demo\New2\KongJianJuFa\KongJianJuFa\obj\x64\Debug\KongJianJuFa.csprojAssemblyReference.cache
